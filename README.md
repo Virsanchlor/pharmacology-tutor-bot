@@ -8,12 +8,7 @@ See [`prompts.md`](prompts.md) for a detailed log of the prompts, AI responses, 
 ---
 
 ## 🖼️ Visuals
-Screenshots of the detailed log of prompts are stored in the [`/screenshots/`](./screenshots) folder.  
-
-Example:  
-- `ligand-binding.png` → Step 1: Signal molecule attaches to GPCR.  
-- `g-protein-activation.png` → Step 2: G-protein subunits separate.  
-- `second-messenger.png` → Step 3: Messenger molecules relay signal.  
+Screenshots of the detailed log of prompts are stored in the [`/screenshots/`](./screenshots) folder.   
 
 ---
 
