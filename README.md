@@ -8,7 +8,7 @@ See [`prompts.md`](prompts.md) for a detailed log of the prompts, AI responses, 
 ---
 
 ## 🖼️ Visuals
-Screenshots of the detailed log of prompts are stored in the [`/screenshots/`](./screenshots) folder.   
+Screenshots of the detailed log of prompts are stored in the [`/Screenshots/`](./Screenshots) folder.   
 
 ---
 
@@ -19,7 +19,7 @@ Screenshots of the detailed log of prompts are stored in the [`/screenshots/`](.
 ---
 
 ## 🎯 Learning Materials
-- **Lecture Notes:** [`lecture_notes.pdf`](lecture_notes.pdf)   
+- **Lecture Notes:** [`lecture_note.pdf`](lecture_note.pdf)   
 
 ---
 
